@@ -31,7 +31,7 @@
                             <input class="form-control" name="loginemail" type="text" placeholder="Username" required="required" >
                             <input class="form-control" name="loginpassword" type="password" placeholder="Enter Password" required="required" >
 
-                            <a href="index.html" class="btn btn-primary">Login <i class="fa fa-fw fa-unlock-alt"></i></a>
+                            <a href="homepageset.jsp" class="btn btn-primary">Login <i class="fa fa-fw fa-unlock-alt"></i></a>
                             <a href="signup.jsp" class="forgot-password">Not a Member? Sign Up</a>
                         </div>
                     </div>
